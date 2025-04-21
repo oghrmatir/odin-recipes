@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Odin Recipes</h1>
 
-  <p>A Basic Recipe Website ([live preview](https://oghrmatir.github.io/odin-recipes/))</p> 
+  A Basic Recipe Website ([live preview](https://oghrmatir.github.io/odin-recipes/))
 </div>
 
 ## About
