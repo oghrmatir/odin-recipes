@@ -25,7 +25,7 @@
 </div>
 
 ## Motivation
-> This was my first foray into web development and I found it quite interesting. This project is meant to test my HTML and CSS chops. I learned quite a lot of technologies prior to this - how to ask for help in coding forums, the basics of command line, the basics of git, and the foundations of HTML and CSS.
+> This was my first foray into web development and I found it quite interesting. This project is meant to test my HTML and CSS chops. I learned quite a lot of technologies prior to this - how to ask for help in coding forums, the basics of command line, the basics of git, and the foundations of HTML.
 
 > Update: I came back to style the website with CSS to change its look and feel. I learned the following - the foundations of CSS, the CSS cascade, how to inspect HTML and CSS, and the different types of box model.
 
