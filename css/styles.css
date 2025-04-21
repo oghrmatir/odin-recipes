@@ -7,3 +7,9 @@ html {
 *::after {
   box-sizing: inherit;
 }
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Lucida Handwriting", cursive;
+}
