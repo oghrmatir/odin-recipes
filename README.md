@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>Odin Recipes</h1>
 
   <p>A Basic Recipe Website ([live preview](https://oghrmatir.github.io/odin-recipes/))</p> 
@@ -10,7 +10,7 @@
 [^1]: This [project](https://www.theodinproject.com/lessons/foundations-recipes) is from the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations) of [The Odin Project](https://www.theodinproject.com/about).
 
 ## Showcase
-<div style="text-align: center;">
+<div align="center">
   <img src="./images/screenshots/sample-1.jpg" alt="Screenshot of sample page 1">
   <p>This is a screenshot of the index page.</p>
 
