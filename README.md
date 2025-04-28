@@ -2,6 +2,8 @@
   <h1>Odin Recipes</h1>
 
   A Basic Recipe Website ([live preview](https://oghrmatir.github.io/odin-recipes/))
+
+  <img src="./img/cover.png" alt="Cover of Recipes website">
 </div>
 
 ## About
@@ -11,16 +13,16 @@
 
 ## Showcase
 <div align="center">
-  <img src="./images/screenshots/sample-1.jpg" alt="Screenshot of sample page 1">
-  <p>This is a screenshot of the index page.</p>
-
-  <img src="./images/screenshots/sample-2.jpg" alt="Screenshot of sample page 2">
+  <img src="./img/screenshots/sample-1.jpg" alt="Screenshot of sample page 1">
   <p>This is a screenshot of a recipe page.</p>
 
-  <img src="./images/screenshots/sample-3.jpg" alt="Screenshot of sample page 3">
-  <p>This is a screenshot of a recipe page.</p>
+  <img src="./img/screenshots/sample-2.jpg" alt="Screenshot of sample page 2">
+  <p>This is a screenshot of another recipe page.</p>
 
-  <img src="./images/demo/demo.gif" alt="Screen cast of odin-recipes">
+  <img src="./img/screenshots/sample-3.jpg" alt="Screenshot of sample page 3">
+  <p>This is a screenshot of another recipe page.</p>
+
+  <img src="./img/demo/demo.gif" alt="Screen cast of odin-recipes">
   <p>This is a screen cast of the website.</p>
 </div>
 
